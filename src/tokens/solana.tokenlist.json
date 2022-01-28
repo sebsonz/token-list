@@ -80,6 +80,26 @@
         "website": "https://www.angle.money"
       }
     },
+	{
+      "chainId": 101,
+      "address": "5N4A3BS5o8oVUJgn6xCtg8rEoJsanzfneGRZyp8UNDw8",
+      "symbol": "ESUN",
+      "name": "ECKO SUN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5N4A3BS5o8oVUJgn6xCtg8rEoJsanzfneGRZyp8UNDw8/logo.PNG",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+       "instagram": "https://www.instagram.com/flam_thelema",
+        "reddit": "https://www.reddit.com/r/sebsonze",
+        "telegram": "https://t.me/sebsonz",
+        "twitter": "https://twitter.com/sebsonz6",
+        "website": ""
+      }
+    },
     {
       "chainId": 101,
       "address": "31GpPxe1SW8pn7GXimM73paD8PZyCsmVSGTLkwUAJvZ8",
@@ -92563,6 +92583,120 @@
         "instagram": "https://www.instagram.com/sipa_social/",
         "telegram": "https://t.me/sipa_social",
         "twitter": "https://twitter.com/sipa_social"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AtS8bVho4K3kcufDCiqtE4GoC3WhSpLAM4KsEou5oh1j",
+      "symbol": "PENNY",
+      "name": "PENNYWISE",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AtS8bVho4K3kcufDCiqtE4GoC3WhSpLAM4KsEou5oh1j/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DUSTcnwRpZjhds1tLY2NpcvVTmKL6JJERD9T274LcqCr",
+      "symbol": "DUST",
+      "name": "Dust Protocol",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUSTcnwRpZjhds1tLY2NpcvVTmKL6JJERD9T274LcqCr/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/degods",
+        "twitter": "https://twitter.com/degodsnft",
+        "website": "https://www.dustprotocol.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AM1bCNMMPA4kVYHkYakBYSWeyMEsvjknjwhfmMxJunBc",
+      "symbol": "KAI",
+      "name": "KAITO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AM1bCNMMPA4kVYHkYakBYSWeyMEsvjknjwhfmMxJunBc/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/wQcTyYMQRk"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "12HddxSoYCL5SYekxabqVVxaBtcJc2Wi3eEwZrLoQ1nx",
+      "symbol": "LVL",
+      "name": "levlups",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/levlups/levlupsToken/main/logo.png",
+      "tags": [
+        "social-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/egwUcdfqrv",
+        "twitter": "https://twitter.com/levlups",
+        "website": "https://galacticau.fun/",
+        "youtube": "https://www.youtube.com/channel/UCmBbOgb66HChuHNDXCEEELQ"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "JCigygFgEEKoRpixRFQibhHLyvSXrQM5AJjkE7xQdxDA",
+      "symbol": "DAF",
+      "name": "DA Futuristics Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/deepak-aditya/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ToQaYfKWvHtHpmPsCo4awxavoEQJjguBZzGiZBM2vYT",
+      "symbol": "PBT",
+      "name": "'Plan B' Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToQaYfKWvHtHpmPsCo4awxavoEQJjguBZzGiZBM2vYT/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4o8JKVCpaV3Rp2GtXcJNaa7DSomeuVks8UJS4nNcNUuS",
+      "symbol": "CIRCLE",
+      "name": "Mr Circle",
+      "decimals": 4,
+      "logoURI": "https://human.ag/api/profile/7H1HKjLxJbYnbK78AtDEXoXWPB464afXcskoMnk8GHu6/picture?src=token-list",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "human"
+      ],
+      "extensions": {
+        "website": "https://human.ag/coin/CIRCLE"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "PSMndFwnJpMRo9c6aWU2V4ev3hq6SYgE2AwpJ7CuweB",
+      "symbol": "PSM",
+      "name": "Phantom Simon",
+      "decimals": 4,
+      "logoURI": "https://human.ag/api/profile/FUQ3VUB5pvUnwCBZXLNr8iVAjrKvStvgTA5ewkMwHSPG/picture?src=token-list",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "human"
+      ],
+      "extensions": {
+        "website": "https://human.ag/coin/PSM"
       }
     }
   ],
